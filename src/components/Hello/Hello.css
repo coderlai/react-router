@@ -1,0 +1,22 @@
+.top {
+    height: 45px;
+    font-size: 0;
+}
+
+.top>a {
+    display: inline-block;
+    width: 25%;
+    height: 45px;
+    line-height: 45px;
+    box-sizing: border-box;
+    font-size: 18px;
+    text-align: center;
+    color: #666;
+}
+
+.content {
+    min-height: 500px;
+    border: 1px mediumturquoise solid;
+    border-radius: 5px;
+    text-align: center;
+}
